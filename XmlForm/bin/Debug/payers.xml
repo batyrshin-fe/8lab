@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student name="Sitdikov">
+    <subject>9</subject>
+    <mark>124</mark>
+    <zachetka>89506587990</zachetka>
+    <Course>4</Course>
+    <group>01052020</group>
+  </student>
+  <student name="Ivanov">
+    <subject>0</subject>
+    <mark>43</mark>
+    <zachetka>79240657676</zachetka>
+    <Course>31</Course>
+    <group>16052020</group>
+  </student>
+  <student name="Petrov">
+    <subject>0</subject>
+    <mark>10</mark>
+    <zachetka>89215436565</zachetka>
+    <Course>12</Course>
+    <group>02062020</group>
+  </student>
+</students>
